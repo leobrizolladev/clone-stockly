@@ -40,3 +40,7 @@ next-env.d.ts
 
 # env
 .env
+
+# postgres
+.postgres-data
+docker-compose.yml
